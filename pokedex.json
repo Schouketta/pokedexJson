@@ -1,19 +1,4 @@
-
-    private int id ;
-    private String nom ;
-    private String nomLatin ;
-    private String img ;
-    private String description ;
-    private String taille ;
-    private String poids ;
-    private String statutConservationPathImg ;
-    private String typeAnimal ;
-    private String nomBassin ;
-    private int profondeur ;
-    private int esperanceDeVie ;
-    
-
-    {
+{
   "pokemon": [{
     "id": 1,
     "nom": "Castagnole",
