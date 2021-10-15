@@ -2,7 +2,7 @@
   "pokemon": [{
     "id": 1,
     "nom": "Castagnole",
-    "nomLatin": "Nom latin Castagnole",
+    "nomLatin": "castagnolus bleutus",
     "img": "https://www.serebii.net/pokemongo/pokemon/001.png",
     "description": "C'est un petit poisson trop mims, bleu électrique quand il est enfant.",
     "taille": "15 cm",
@@ -14,8 +14,8 @@
     "esperanceDeVie": "3 ans"
   }, {
     "id": 2,
-    "nom": "Poisson cocher commun",
-    "nomLatin": "Nom latin poisson cocher",
+    "nom": "Poisson cocher",
+    "nomLatin": "poisson cocherus",
     "img": "https://www.serebii.net/pokemongo/pokemon/002.png",
     "description": "C'est un petit poisson trop mims, rayures noires avec une antenne.",
     "taille": "30 cm",
@@ -27,8 +27,8 @@
     "esperanceDeVie": "5 ans"
   }, {
     "id": 3,
-    "nom": "Castagnole2",
-    "nomLatin": "Nom Latin Castagnole2",
+    "nom": "Requin gris",
+    "nomLatin": "carcarhinus grisus",
     "img": "https://www.serebii.net/pokemongo/pokemon/003.png",
     "description": "C'est un petit poisson trop mims, bleu électrique quand il est enfant 2.",
     "taille": "15 cm",
@@ -40,13 +40,39 @@
     "esperanceDeVie": "3 ans"
   }, {
     "id": 4,
-    "nom": "Chrysaora du Pérou",
-    "nomLatin": "Nom Latin Chrysaora du pérou",
+    "nom": "Tortue verte",
+    "nomLatin": "verus tortuga",
     "img": "https://www.serebii.net/pokemongo/pokemon/004.png",
+    "description": "C'est un petit poisson trop mims, bleu électrique quand il est enfant 2.",
+    "taille": "15 cm",
+    "poids": "30 g",
+    "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/004.png",
+    "typeAnimal": "poisson",
+    "nomBassin": "Mer méditerranée",
+    "profondeur": "< 20 m",
+    "esperanceDeVie": "3 ans"
+  }, {
+    "id": 5,
+    "nom": "Poisson clown",
+    "nomLatin": "clownus poissonus",
+    "img": "https://www.serebii.net/pokemongo/pokemon/005.png",
+    "description": "C'est un petit poisson trop mims, bleu électrique quand il est enfant 2.",
+    "taille": "15 cm",
+    "poids": "30 g",
+    "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/005.png",
+    "typeAnimal": "poisson",
+    "nomBassin": "Mer méditerranée",
+    "profondeur": "< 20 m",
+    "esperanceDeVie": "3 ans"
+  }, {
+    "id": 6,
+    "nom": "Chrysaora pérou",
+    "nomLatin": "medusas chrysaora",
+    "img": "https://www.serebii.net/pokemongo/pokemon/006.png",
     "description": "Méduse ombrelle rayée, qui s'y frotte s'y pique.",
     "taille": "1 m",
     "poids": "700 g",
-    "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/004.png",
+    "statutConservationPathImg": "https://www.serebii.net/pokemongo/pokemon/006.png",
     "typeAnimal": "meduse",
     "nomBassin": "Océan Pacifique",
     "profondeur": "< 20 m",
